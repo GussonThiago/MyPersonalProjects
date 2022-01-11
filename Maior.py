@@ -1,6 +1,6 @@
 def maior(a, list, *num):
     """
-    -> Shows the highest number in the list
+    -> Shows the higher number in the list
     :param a: Select option list or numbers
     :param list: List to search
     :param num: Numbers to search
