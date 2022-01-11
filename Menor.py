@@ -30,6 +30,3 @@ def menor(a, list, *num):
         print(nmen)
     if num == -999:
         print(lmen)
-
-
-menor(0, 2, 3, 4, 5, 6, 7, 8, 9)
